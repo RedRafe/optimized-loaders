@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2023-06-13
+  Changes:
+    - Added AAI graphics
+    - Added SE graphics
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2023-05-24
+  Changes:
+    - Added Krastorio2 Graphics
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2023-05-22
+  Info:
+    - Initial release
+  Changes:
+    - Loaders are implemented as native 1x1 loaders instead of a loader & hidden-inserter pair
+    - Loaders and Filter-Loaders are now the same entity, with the possibility to set filters when outputting
+    - Migrated all Miniloaders prototypes
+    - Migrated all UltimateBelts prototypes

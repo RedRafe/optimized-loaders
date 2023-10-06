@@ -1,0 +1,12 @@
+{
+    "name": "optimized-loaders",
+    "version": "0.1.1",
+    "title": "Optimized Loaders",
+    "author": "RedRafe",
+    "factorio_version": "1.1",
+    "description": "Fork of Miniloaders mod, optimized to be UPS efficient",
+    "dependencies": [
+        "base >= 1.1.0",
+        "? UltimateBelts"
+    ]
+}
